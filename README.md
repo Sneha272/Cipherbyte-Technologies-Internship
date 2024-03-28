@@ -1,6 +1,6 @@
 # Cipherbyte-Technologies-Internship
 
-#### TASK-1  Iris Flower Classification
+# TASK-1  Iris Flower Classification
 
 The iris flower dataset is a classic dataset in machine learning that contains measurements for 150 iris flowers from three different species: Setosa, Versicolor, and Virginica. Each flower is described by four features: sepal length, sepal width, petal length, and petal width. The dataset is commonly used as a benchmark for machine learning algorithms.
 
@@ -17,4 +17,4 @@ technique called gradient descent to optimize the model parameters and minimize 
 ### Evaluation: 
 After training the model, we need to evaluate its performance on the testing set. We will use metrics such as accuracy, precision, recall, and F1 score to evaluate the model's performance. These metrics will help us determine how well the model is performing and identify areas where it can be improved
 
-#### TASK-2 Unemployment Analysis 
+# TASK-2 Unemployment Analysis 
