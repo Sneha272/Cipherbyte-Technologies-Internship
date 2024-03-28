@@ -18,3 +18,15 @@ technique called gradient descent to optimize the model parameters and minimize 
 After training the model, we need to evaluate its performance on the testing set. We will use metrics such as accuracy, precision, recall, and F1 score to evaluate the model's performance. These metrics will help us determine how well the model is performing and identify areas where it can be improved
 
 # TASK-2 Unemployment Analysis 
+
+Dataset used :
+
+Unemployment_in_India.csv 
+Unemployment_Rate_upto_11_2020.csv 
+
+### Data set description :
+Unemployment is measured by the unemployment rate which is the number of people who are unemployed as a percentage of the total labour force.
+
+Estimated Unemployment Rate (%): The estimated unemployment rate is a measure used by governments and economists to assess the percentage of the labor force that is unemployed and actively seeking employment. It is an important economic indicator as it reflects the health of the job market and the overall economy.
+
+Estimated Labour Participation Rate (%) : The labor force participation rate is calculated by dividing the number of people in the labor force (both employed and unemployed individuals) by the total working-age population and then multiplying by 100 to express it as a percentage.
